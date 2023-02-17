@@ -1,0 +1,37 @@
+_repo: Gloriana-or-the-revolution-of-1900_69843
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dixie, Florence, Lady
+    aliases:
+    - Dixie, Florence Caroline Douglas, Lady
+    - Douglas, Florence, Lady
+    - Dixie, Lady Florence
+    birthdate: 1855
+    deathdate: 1905
+    gutenberg_agent_id: '41805'
+    url: http://www.gutenberg.org/2009/agents/41805
+    wikipedia: https://en.wikipedia.org/wiki/Lady_Florence_Dixie
+description: ''
+gutenberg_issued: '2023-01-20'
+identifiers:
+  gutenberg: '69843'
+language: en
+pgterms:marc904: https://archive.org/details/glorianaorrevolu00dixi
+pgterms:marc905: 20190302135355dixie
+pgterms:marc906: '1890'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United Kingdom: Henry and Co.,1890.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Utopias -- Fiction'
+- !lcsh 'Women''s rights -- Fiction'
+- !lcsh 'Speculative fiction'
+- !lcc 'PR'
+- GITenberg
+title: Gloriana; or, the revolution of 1900
+url: http://www.gutenberg.org/ebooks/69843
