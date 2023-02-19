@@ -1,5 +1,8 @@
 _repo: Gloriana-or-the-revolution-of-1900_69843
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69843-h/images/cover.jpg
 creator:
   author:
     agent_name: Dixie, Florence, Lady
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41805
     wikipedia: https://en.wikipedia.org/wiki/Lady_Florence_Dixie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69843#Gloriana-or-the-revolution-of-1900
 gutenberg_issued: '2023-01-20'
 identifiers:
   gutenberg: '69843'
